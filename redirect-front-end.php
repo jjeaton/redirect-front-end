@@ -51,7 +51,7 @@ class RFE_Redirect_Front_End {
 	 *
 	 * @var      string
 	 */
-	protected $plugin_slug = 'redirect-frontend';
+	protected $plugin_slug = 'redirect-front-end';
 
 	/**
 	 * Instance of this class.
