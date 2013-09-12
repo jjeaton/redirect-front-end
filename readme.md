@@ -19,8 +19,8 @@ Useful mainly for developers, if you're developing a site and want to give users
 
 Filters included:
 
-`rfe_redirect_caps`: Control capabilities required to bypass redirect, lets Administrators access front-end by default (default: `manage_options`)  
-`rfe_redirect_url`: Change the redirect URL (default: `admin_url()`)  
+* `rfe_redirect_caps`: Control capabilities required to bypass redirect, lets Administrators access front-end by default (default: `manage_options`)  
+* `rfe_redirect_url`: Change the redirect URL (default: `admin_url()`)  
 
 ## Installation ##
 
