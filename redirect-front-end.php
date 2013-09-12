@@ -17,7 +17,7 @@
  * Version:     0.1
  * Author:      Josh Eaton
  * Author URI:  http://www.josheaton.org/
- * Text Domain: rfe-redirect
+ * Text Domain: redirect-front-end
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path: /lang
